@@ -1,61 +1,3 @@
-/*
-[Table of contents]
-
-1. Base styles
-2. Layouts
-3. Colors
-4. Fonts
-5. Headers
-6. Main container
-7. Page list
-8. Parallax backgrounds
-9. Navigation bar
-10. Nivo slider
-11. Subheaders
-12. Occupation name
-13. Home carousel
-14. Google maps
-15. Qtip
-16. List
-17. Pricing list
-18. Pagination
-19. Twitter user timeline
-20. Quotation list
-21. Form
-22. Preloader
-23. Image overlay
-24. Image
-25. Filter list
-26. Gallery
-27. Team
-28. Social list
-29. Features list
-30. jQuery UI / Accordion
-31. Skill list
-32. Progress bar
-33. Info list
-34. Company info
-35. Browse More button
-36. Post info bar
-37. Post date box &  post comment count box
-38. Post list
-39. Blog / Post
-40. Comments
-41. Widget
-42. Footer
-43. Responsive
-44. Fixes
-*/
-
-
-/******************************************************************************/
-
-
-/*	Reset styles												       */
-
-
-/******************************************************************************/
-
 html,
 body,
 div,
@@ -1686,6 +1628,10 @@ ul.list.list-2 li>div {
 ul.list.list-3 li>div {
     background-image: url('../image/icon_bullet/03.png');
 }
+ul.list.list-4 li>div {
+    background-image: url('../image/icon_bullet/04.png');
+}
+
 
 
 /******************************************************************************/
@@ -2823,6 +2769,12 @@ ul.feature-list.feature-list-icon-small li span.icon.icon-minus {
 
 ul.feature-list.feature-list-icon-small li span.icon.icon-mobile {
     background-image: url('../image/icon_feature/small/mobile.png');
+}
+ul.feature-list.feature-list-icon-small li span.icon.icon-line {
+    background-image: url('../image/icon_feature/small/line.png');
+}
+ul.feature-list.feature-list-icon-small li span.icon.icon-fb {
+    background-image: url('../image/icon_feature/small/fb.png');
 }
 
 ul.feature-list.feature-list-icon-small li span.icon.icon-money {
